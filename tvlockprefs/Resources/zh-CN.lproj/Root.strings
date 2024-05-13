@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Are you sure you want to reset all settings?</key>
+	<string>你想重置所有设置嘛？</string>
+	<key>Are you sure you want to respring your device?</key>
+	<string>你想注销你的设备吗？</string>	
+	<key>Respring!</key>
+	<string>注销</string>	
+	<key>Cancel</key>
+	<string>取消</string>
+	<key>Closing animation</key>
+	<string>“关闭中”动画</string>
+	<key>Developer</key>
+	<string>开发者(🇨🇳中文:妖刀)</string>	
+	<key>Great old TV screen off animation!</key>
+	<string>很棒的老电视关屏动画！
+🇨🇳简体中文：妖刀</string>		
+	<key>Disable in Low Power Mode</key>
+	<string>低电禁用</string>
+	<key>Donate</key>
+	<string>捐赠作者</string>
+	<key>Dot Fade Time</key>
+	<string>“点”淡入淡出时间</string>
+	<key>Dot Size</key>
+	<string>“点”大小</string>
+	<key>Email Me</key>
+	<string>电子邮件</string>
+	<key>Enabled</key>
+	<string>功能启用</string>
+	<key>Glow Effect</key>
+	<string>发光效果</string>
+	<key>Line Thiccness</key>
+	<string>线条粗细</string>
+	<key>Options</key>
+	<string>选项</string>
+	<key>Pause time</key>
+	<string>暂停时间</string>
+	<key>Reddit</key>
+	<string>论坛交流</string>
+	<key>Reset all settings</key>
+	<string>重置设置</string>
+	<key>Reset!</key>
+	<string>重置</string>
+	<key>Respring</key>
+	<string>注销设备</string>
+	<key>Respringing is NOT needed for changes to take effect!</key>
+	<string>更改设置不需要注销即可生效！</string>
+	<key>Rotate With Screen</key>
+	<string>屏幕旋转</string>
+	<key>Source Code</key>
+	<string>项目开源</string>
+	<key>Squish animation time</key>
+	<string>“收缩动画”时间</string>
+	<key>Use Smooth Animation</key>
+	<string>平滑动画</string>
+</dict>
+</plist>
+

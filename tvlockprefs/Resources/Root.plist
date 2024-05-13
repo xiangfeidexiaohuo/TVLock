@@ -289,33 +289,6 @@
 				<string>Cancel</string>
 			</dict>
 	</dict>
-
-	<dict>
-		<key>cell</key>
-		<string>PSGroupCell</string>
-		<key>label</key>
-		<string>Developer</string>
-	</dict>
-	<dict>
-		<key>cell</key>
-		<string>PSButtonCell</string>
-		<key>label</key>
-		<string>Email Me</string>
-		<key>action</key>
-		<string>OpenEmail</string>
-		<key>icon</key>
-		<string>email.png</string>
-	</dict>
-	<dict>
-		<key>cell</key>
-		<string>PSButtonCell</string>
-		<key>label</key>
-		<string>Reddit</string>
-		<key>action</key>
-		<string>OpenReddit</string>
-		<key>icon</key>
-		<string>reddit.png</string>
-	</dict>
 	<dict>
 		<key>cell</key>
 		<string>PSButtonCell</string>
@@ -323,20 +296,13 @@
 		<string>Source Code</string>
 		<key>action</key>
 		<string>OpenGithub</string>
-		<key>icon</key>
-		<string>github.png</string>
 	</dict>
 	<dict>
 		<key>cell</key>
-		<string>PSButtonCell</string>
+		<string>PSGroupCell</string>
 		<key>label</key>
-		<string>Donate</string>
-		<key>action</key>
-		<string>OpenPaypal</string>
-		<key>icon</key>
-		<string>paypal.png</string>
+		<string>Great old TV screen off animation!</string>
 	</dict>
-
 	</array>
 
 	<key>title</key>
